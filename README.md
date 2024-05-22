@@ -22,13 +22,13 @@ For Customers:
 <li>Track Orders: </li> (coming soon)
 
 <b> For Sellers: (COMING SOON) </b>
-<li>
-Seller Registration/Login
-Manage Inventory
-Track Sales
-Process Orders
-Interact withCustomers: 
-</li>
+<p>
+Seller Registration/Login,
+Manage Inventory,
+Track Sales,
+Process Orders,
+Interact withCustomers
+</p>
 
 <h2> Technologies Used </h2>
 Frontend: HTML, CSS, JavaScript, React.js
