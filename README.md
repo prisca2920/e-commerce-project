@@ -18,12 +18,13 @@ Seller Dashboard: Dedicated dashboard for sellers to manage inventory, track sal
 
 <h2> How It Works </h2>
 For Customers:
-Sign Up/Login: Create an account or log in to access all features.
-Browse Products: Explore our extensive collection of bags and filter by your preferences.
+<li>Sign Up/Login: </li>Create an account or log in to access all features.
+<li>Browse Products: </li>Explore our extensive collection of bags and filter by your preferences.
 Add to Cart: Select your desired bags and add them to your shopping cart.
 Proceed to Checkout: Review your cart, enter shipping details, and choose your payment method.
 Complete Payment: Confirm your order and securely complete the payment process.
 Track Orders: Monitor the status of your orders and receive updates on shipping and delivery.
+
 For Sellers:
 Seller Registration/Login: Register as a seller or log in to your existing account.
 Manage Inventory: Add new products, update existing listings, and remove sold-out items.
@@ -54,7 +55,7 @@ Priscah Monicah (prisca2920@gmail.com)
 License
 
 
-Note
+<h2> Note</h2>
 This project is still a work in progress. While many features are functional, there are ongoing developments and improvements being made. Feel free to contribute or provide feedback!
 
 
