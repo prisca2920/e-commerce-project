@@ -20,18 +20,19 @@ Seller Dashboard: Dedicated dashboard for sellers to manage inventory, track sal
 For Customers:
 <li>Sign Up/Login: </li>Create an account or log in to access all features.
 <li>Browse Products: </li>Explore our extensive collection of bags and filter by your preferences.
-Add to Cart: Select your desired bags and add them to your shopping cart.
-Proceed to Checkout: Review your cart, enter shipping details, and choose your payment method.
-Complete Payment: Confirm your order and securely complete the payment process.
-Track Orders: Monitor the status of your orders and receive updates on shipping and delivery.
+<li>Add to Cart: <li>Select your desired bags and add them to your shopping cart.
+<li>Proceed to Checkout:</li>Review your cart, enter shipping details, and choose your payment method.
+<li>Complete Payment:</li> Confirm your order and securely complete the payment process.
+<li>Track Orders: </li> (coming soon) Monitor the status of your orders and receive updates on shipping and delivery.
 
-For Sellers:
-Seller Registration/Login: Register as a seller or log in to your existing account.
-Manage Inventory: Add new products, update existing listings, and remove sold-out items.
-Track Sales: Monitor your sales performance, view order history, and track revenue.
-Process Orders: Fulfill orders, update order status, and manage shipping information.
-Interact with Customers: Respond to customer inquiries, handle returns, and provide excellent service.
-
+<b> For Sellers: (COMING SOON) </b>
+<ol>
+Seller Registration/Login
+Manage Inventory
+Track Sales
+Process Orders
+Interact withCustomers: 
+</ol>
 
 <h2> Technologies Used </h2>
 Frontend: HTML, CSS, JavaScript, React.js
