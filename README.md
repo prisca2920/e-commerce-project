@@ -13,7 +13,7 @@
 
 
 <h2> How It Works </h2>
-For Customers:
+<b>For Customers:</b>
 <li>Sign Up/Login: </li>Create an account or log in to access all features.
 <li>Browse Products: </li>Explore our extensive collection of bags and filter by your preferences.
 <li>Add to Cart: <li>Select your desired bags and add them to your shopping cart.
@@ -31,11 +31,11 @@ Interact withCustomers
 </p>
 
 <h2> Technologies Used </h2>
-Frontend: HTML, CSS, JavaScript, React.js
-Backend: Node.js, Express.js, MongoDB
-Authentication: JSON Web Tokens (JWT)
-Payment Integration: Stripe API
-Deployment: Heroku
+<li><b>Frontend:</b></li> HTML, CSS, JavaScript, React.js
+<li><b>Backend:</b></li> Node.js, Express.js, MongoDB
+<li><b>Authentication:</b></li> JSON Web Tokens (JWT)
+<li><b>Payment Integration:</b></li> Stripe API
+<li><b>Deployment:</b></li> Heroku
 Getting Started
 
 To run this project locally, follow these steps:
