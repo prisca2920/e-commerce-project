@@ -5,6 +5,7 @@ Bag - it - up ecommerce project
 Bag-It-Up Ecommerce Project
 Welcome to the Bag-It-Up Ecommerce Project! This project is a simple yet functional ecommerce platform for buying and selling bags online. Whether you're a customer looking for the perfect bag or a seller wanting to showcase your collection, this platform provides a seamless experience for both.
 
+
 Features
 User Authentication: Secure user registration and login functionality for both customers and sellers.
 Product Listings: Browse a wide range of bags categorized by type, brand, price range, and more.
@@ -13,6 +14,8 @@ Shopping Cart: Add items to your cart and easily manage quantities before checko
 Checkout Process: Secure payment gateway integration for hassle-free transactions.
 Order Management: Track your orders, view order history, and manage shipping details.
 Seller Dashboard: Dedicated dashboard for sellers to manage inventory, track sales, and update product listings.
+
+
 How It Works
 For Customers:
 Sign Up/Login: Create an account or log in to access all features.
@@ -27,6 +30,8 @@ Manage Inventory: Add new products, update existing listings, and remove sold-ou
 Track Sales: Monitor your sales performance, view order history, and track revenue.
 Process Orders: Fulfill orders, update order status, and manage shipping information.
 Interact with Customers: Respond to customer inquiries, handle returns, and provide excellent service.
+
+
 Technologies Used
 Frontend: HTML, CSS, JavaScript, React.js
 Backend: Node.js, Express.js, MongoDB
@@ -34,6 +39,7 @@ Authentication: JSON Web Tokens (JWT)
 Payment Integration: Stripe API
 Deployment: Heroku
 Getting Started
+
 To run this project locally, follow these steps:
 
 Clone this repository.
@@ -41,11 +47,12 @@ Install dependencies using npm install.
 Set up environment variables for MongoDB connection, Stripe API keys, etc.
 Run the development server using npm start.
 Access the application in your web browser at http://localhost:3000.
+
 Contributors
-John Doe (@johndoe)
-Jane Smith (@janesmith)
+Priscah Monicah (prisca2920@gmail.com)
+
 License
-This project is licensed under the MIT License - see the LICENSE.md file for details.
+
 
 Note
 This project is still a work in progress. While many features are functional, there are ongoing developments and improvements being made. Feel free to contribute or provide feedback!
