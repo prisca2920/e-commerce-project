@@ -1,19 +1,15 @@
-# e-commerce-project
-Bag - it - up ecommerce project
-
+<h1> ECOMMERCE PORTFOLIO PROJECT</h1>
 
 <h1> Bag-It-Up Ecommerce Project </h1>
 <p> Welcome to the Bag-It-Up Ecommerce Project! This project is a simple yet functional ecommerce platform for buying and selling bags online. Whether you're a customer looking for the perfect bag or a seller wanting to showcase your collection, this platform provides a seamless experience for both.
 </p>
 
 <h2> Features </h2>
-User Authentication: Secure user registration and login functionality for both customers and sellers.
-Product Listings: Browse a wide range of bags categorized by type, brand, price range, and more.
-Product Details: View detailed information about each bag, including descriptions, prices, and images.
-Shopping Cart: Add items to your cart and easily manage quantities before checkout.
-Checkout Process: Secure payment gateway integration for hassle-free transactions.
-Order Management: Track your orders, view order history, and manage shipping details.
-Seller Dashboard: Dedicated dashboard for sellers to manage inventory, track sales, and update product listings.
+<li><b>User Authentication: </b></li>Secure user registration and login functionality for both customers and sellers.
+<li><b>Product Listings: </b></li>Browse a wide range of bags categorized by type, brand, price range, and more.
+<li><b>Product Details: </b></li>View detailed information about each bag, including descriptions, prices, and images.
+<li><b>Shopping Cart:</b></li> Add items to your cart and easily manage quantities before checkout.
+<li><b>Checkout Process:</b></li> Secure payment gateway integration for hassle-free transactions.
 
 
 <h2> How It Works </h2>
