@@ -1,4 +1,4 @@
-<h1> ECOMMERCE PORTFOLIO PROJECT</h1>
+<h3> ECOMMERCE PORTFOLIO PROJECT</h3>
 
 <h1> Bag-It-Up Ecommerce Project </h1>
 <p> Welcome to the Bag-It-Up Ecommerce Project! This project is a simple yet functional ecommerce platform for buying and selling bags online. Whether you're a customer looking for the perfect bag or a seller wanting to showcase your collection, this platform provides a seamless experience for both.
