@@ -2,11 +2,11 @@
 Bag - it - up ecommerce project
 
 
-<h1>Bag-It-Up Ecommerce Project <h1>
-Welcome to the Bag-It-Up Ecommerce Project! This project is a simple yet functional ecommerce platform for buying and selling bags online. Whether you're a customer looking for the perfect bag or a seller wanting to showcase your collection, this platform provides a seamless experience for both.
+<h1> Bag-It-Up Ecommerce Project </h1>
+<p> Welcome to the Bag-It-Up Ecommerce Project! This project is a simple yet functional ecommerce platform for buying and selling bags online. Whether you're a customer looking for the perfect bag or a seller wanting to showcase your collection, this platform provides a seamless experience for both.
+</p>
 
-
-Features
+<h2> Features </h2>
 User Authentication: Secure user registration and login functionality for both customers and sellers.
 Product Listings: Browse a wide range of bags categorized by type, brand, price range, and more.
 Product Details: View detailed information about each bag, including descriptions, prices, and images.
@@ -16,7 +16,7 @@ Order Management: Track your orders, view order history, and manage shipping det
 Seller Dashboard: Dedicated dashboard for sellers to manage inventory, track sales, and update product listings.
 
 
-How It Works
+<h2> How It Works </h2>
 For Customers:
 Sign Up/Login: Create an account or log in to access all features.
 Browse Products: Explore our extensive collection of bags and filter by your preferences.
@@ -32,7 +32,7 @@ Process Orders: Fulfill orders, update order status, and manage shipping informa
 Interact with Customers: Respond to customer inquiries, handle returns, and provide excellent service.
 
 
-Technologies Used
+<h2> Technologies Used </h2>
 Frontend: HTML, CSS, JavaScript, React.js
 Backend: Node.js, Express.js, MongoDB
 Authentication: JSON Web Tokens (JWT)
@@ -48,7 +48,7 @@ Set up environment variables for MongoDB connection, Stripe API keys, etc.
 Run the development server using npm start.
 Access the application in your web browser at http://localhost:3000.
 
-Contributors
+<h2>Contributors</h2>
 Priscah Monicah (prisca2920@gmail.com)
 
 License
