@@ -19,16 +19,16 @@ For Customers:
 <li>Add to Cart: <li>Select your desired bags and add them to your shopping cart.
 <li>Proceed to Checkout:</li>Review your cart, enter shipping details, and choose your payment method.
 <li>Complete Payment:</li> Confirm your order and securely complete the payment process.
-<li>Track Orders: </li> (coming soon) Monitor the status of your orders and receive updates on shipping and delivery.
+<li>Track Orders: </li> (coming soon)
 
 <b> For Sellers: (COMING SOON) </b>
-<ol>
+<li>
 Seller Registration/Login
 Manage Inventory
 Track Sales
 Process Orders
 Interact withCustomers: 
-</ol>
+</li>
 
 <h2> Technologies Used </h2>
 Frontend: HTML, CSS, JavaScript, React.js
