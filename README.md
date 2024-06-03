@@ -32,8 +32,8 @@ Interact withCustomers
 
 <h2> Technologies Used </h2>
 <li><b>Frontend:</b></li> HTML, CSS, JavaScript, React.js
-<li><b>Backend:</b></li> Node.js, Express.js, MongoDB
-<li><b>Authentication:</b></li> JSON Web Tokens (JWT)
+<li><b>Backend:</b></li> Django, Django REST Framework, SQLite
+<li><b>Authentication:</b></li> JSON Web Tokens (JWT) via Django REST Framework simple JWT
 <li><b>Payment Integration:</b></li> Stripe API
 <li><b>Deployment:</b></li> Heroku
 Getting Started
@@ -44,7 +44,7 @@ Clone this repository.
 Install dependencies using npm install.
 Set up environment variables for MongoDB connection, Stripe API keys, etc.
 Run the development server using npm start.
-Access the application in your web browser at http://localhost:3000.
+Access the application in your web browser at http://localhost:8000.
 
 <h2>Contributors</h2>
 Priscah Monicah (prisca2920@gmail.com)
