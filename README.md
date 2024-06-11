@@ -33,10 +33,10 @@ Interact withCustomers
 </p>
 
 <h2> Technologies Used </h2>
-<li><b>Frontend:</b></li> HTML, CSS, JavaScript, React.js
-<li><b>Backend:</b></li> Django, Django REST Framework, SQLite
+<li><b>Frontend:</b></li> HTML, CSS, JavaScript, SCSS, Bootstrap
+<li><b>Backend:</b></li> Python, Django Framework, DbSQLite3
 <li><b>Authentication:</b></li> JSON Web Tokens (JWT) via Django REST Framework simple JWT
-<li><b>Payment Integration:</b></li> Stripe API
+<li><b>Payment Integration:</b></li> Daraja API
 <li><b>Deployment:</b></li> Heroku
 Getting Started
 
