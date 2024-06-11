@@ -4,7 +4,7 @@
 <p> Welcome to the Bag-It-Up Ecommerce Project! This project is a simple yet functional ecommerce platform for buying and selling bags online. Whether you're a customer looking for the perfect bag or a seller wanting to showcase your collection, this platform provides a seamless experience for both.
 </p>
 ![bag it up site picture]("https://github.com/prisca2920/e-commerce-project/blob/main/bagitup.png")
-<img src="e-commerce-project/bagitup.png" alt="Alt Text">
+<img src="bagitup.png" alt="Alt Text">
 
 <h2> Features </h2>
 <li><b>User Authentication: </b></li>Secure user registration and login functionality for both customers and sellers.
